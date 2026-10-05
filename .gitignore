@@ -1,0 +1,20 @@
+# Node
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Java/Spring Boot
+target/
+*.class
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.swp
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
